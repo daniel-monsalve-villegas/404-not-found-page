@@ -1,4 +1,4 @@
-# Make It Real - NAME OF THE PROJECT
+# Make It Real - 404 NOT FOUND PROJECT
 
 This is a solution to the 404-Not-Found project of the Make It Real course.
 
