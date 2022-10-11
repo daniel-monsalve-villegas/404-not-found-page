@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot![](./screenshot.jpg)
 
-
+![Alt text](../screenshots/2022-10-11-134914_1920x1080_scrot)
+![Alt text](../screenshots/2022-10-11-134919_1920x1080_scrot)
 
 ## My process
 
