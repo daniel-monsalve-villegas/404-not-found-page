@@ -49,15 +49,12 @@ I want to keep studying css to get it better, I found out that I have forgot a l
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me to recall some properties of css and how to use them.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://developer.mozilla.org/es/) - This helped me to recall some properties of css and how to use them.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Daniel Monsalve
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to Juan Lorza for working with me
